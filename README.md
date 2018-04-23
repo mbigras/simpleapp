@@ -1,6 +1,16 @@
 # Simpleapp
 
-## Run the app
+> A command-line application that depends on mbigras/simplegem
+
+## Installation
+
+```
+git clone https://github.com/mbigras/simpleapp
+cd simpleapp
+bundle install
+```
+
+## Run the application
 
 ```
 bundle exec simpleapp
