@@ -1,6 +1,7 @@
 FROM alpine:edge
 RUN apk --update --upgrade add \
 	build-base \
+	git \
 	libffi-dev \
 	ruby-bundler \
 	ruby-dev \

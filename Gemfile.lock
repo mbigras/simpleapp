@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/mbigras/simplegem
+  revision: 0541f2a1c7855d959cb7ad79bb895c1f2d8215f3
+  specs:
+    simplegem (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -45,6 +51,7 @@ PLATFORMS
 
 DEPENDENCIES
   aruba (~> 0.14.0)
+  simplegem!
 
 BUNDLED WITH
    1.16.1
